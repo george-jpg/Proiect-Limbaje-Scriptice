@@ -16,3 +16,6 @@ Tema 1. Adăugați un set de 30 de coordonate geografice în baza de date. Afiș
 centrată astfel încăt sa cuprindă toate cele 30 de coordonate la nivelul maxim de zoom. Pentru fiecare
 din cele 30 de coordonate plasați un marker. Markerul va avea culoarea specificată în database și o
 etichetă cu texul din database. Câmpul dimensiune din database nu este folosit. 
+
+
+link :https://www.youtube.com/watch?v=hdu4Jk1Sge8
